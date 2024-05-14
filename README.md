@@ -69,12 +69,15 @@ pip install tk pillow requests
 - Background images change dynamically to enhance visual appeal.
 
 ## Screenshots
+<img width="700" alt="Screenshot 2024-05-14 at 3 14 01 PM" src="https://github.com/Karthi905968/Python-Project3-WeatherApp/assets/144101745/c56f8ccb-47c0-4c50-9c98-e28766729646">
+<img width="700" alt="Screenshot 2024-05-14 at 3 14 41 PM" src="https://github.com/Karthi905968/Python-Project3-WeatherApp/assets/144101745/e247691d-0441-4a6e-a6bd-cc0fc20a8699">
+
 
 ## Credits
-
+This application was created by Tech IS.
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](/) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
