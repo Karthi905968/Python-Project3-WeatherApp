@@ -30,7 +30,7 @@ cd WeatherApp
 ```
 4. Obtain API Key
 
-WeatherGuard uses the OpenWeatherMap API to fetch weather data. Obtain your API key from OpenWeatherMap and replace `api_key variable` in `main.py` with your `API key`.
+WeatherGuard uses the OpenWeatherMap API to fetch weather data. Obtain your API key from [OpenWeatherMap](https://openweathermap.org/) and replace `api_key variable` in `main.py` with your `API key`.
 
 4. Run the game:
 
